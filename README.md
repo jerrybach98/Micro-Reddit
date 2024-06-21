@@ -1,24 +1,3 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Build data structures necessary to support link submissions and commenting. Use rails console to play around with models without the overhead of making HTTP requests and involving controllers or views. Emphasis on basic model associations. 
